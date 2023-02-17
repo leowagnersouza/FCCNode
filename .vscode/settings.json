@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/29b28007-06e8-4bbb-bd50-9746d54fa21b/AppServices/subscriptions/29b28007-06e8-4bbb-bd50-9746d54fa21b/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/fccnode",
+    "appService.deploySubpath": "."
+}
